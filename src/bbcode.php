@@ -1,8 +1,8 @@
 <?php
 
 /**
- * Function to apply BBCode
- * Available options :
+ * Apply BBCode
+ * Options :
  * - $options['class'] string div class surrounding text
  * - $options['headers_max_level'] int maximal headers level
  * - $options['anchors_id'] string text identifier used for anchors
@@ -16,10 +16,10 @@
  * - $options['code_start_language'] string for code start with a defined language
  * - $options['code_end'] string for code end
  * @license LGPL v3
- * @version 2013-10-02
- * @param $text string bbcode string
+ * @version 2013-10-04
+ * @param $text string bbcode
  * @param $options array options
- * @return string html string
+ * @return string html
  */
 function bbcode($text,$options=null) {
 	// Replace < and >
