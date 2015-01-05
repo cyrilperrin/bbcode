@@ -1,9 +1,0 @@
-DELEGATES_PREFERENCE=delegateValidatorList
-USER_BUILD_PREFERENCE=enabledBuildValidatorList
-USER_MANUAL_PREFERENCE=enabledManualValidatorList
-USER_PREFERENCE=overrideGlobalPreferencestruedisableAllValidationfalseversion1.2.500.v201303130500
-eclipse.preferences.version=1
-override=true
-suspend=false
-vals/org.phpsrc.eclipse.pti.tools.codesniffer.CodeSnifferValidatorForPHP/groups=0107include01111contentType130org.eclipse.php.core.phpsourceT0107exclude0104file07exampleF02
-vf.version=3
